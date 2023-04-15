@@ -1,5 +1,5 @@
 {
-  "name": "node-project",
+  "name": "node-express",
   "dockerComposeFile": ["docker-compose.yml"],
   "service": "app",
   "workspaceFolder": "/workspace",
@@ -9,7 +9,6 @@
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
         "humao.rest-client",
-        "orta.vscode-jest",
         "redhat.vscode-yaml"
       ]
     }
