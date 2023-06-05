@@ -18,7 +18,7 @@
   "author": "Sebastiaan de Haan",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.1.4",
     "express": "^4.18.2"
   },
   "devDependencies": {
